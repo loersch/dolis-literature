@@ -1,0 +1,15 @@
+## Jabref backup files:
+*.bak
+
+## old ones
+jchDiss.bib
+alt/
+
+## Literature
+pdf/
+
+# R-Scripte
+*.R
+
+## dropbox
+.dropbox
